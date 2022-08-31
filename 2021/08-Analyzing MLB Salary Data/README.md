@@ -1,6 +1,9 @@
 This section uses two CSV files. This data originates from [Lahman's Baseball Database](https://www.seanlahman.com/baseball-archive/statistics/).
 
 To use a csv use the `read_csv` method from pandas.
+```python
+import pandas as pd
+```
 
 In this section we use salary data from 1985 up to 2016.
 ```python
