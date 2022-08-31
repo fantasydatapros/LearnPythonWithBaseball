@@ -19,13 +19,14 @@ This course relies on the pybaseball package which you can find here: https://gi
 * pybaseball 2021 `statcast`
 
 ## 08-Analyzing MLB Salary Data
-* CSV lahman
+* CSV `salary` 
+* CSV `teams` 
 
 ## 09-Linear Regression with Baseball
-
+* pybaseball 2010 - 2019 `batting_stats`
 
 ## 10-Classifying Pitch Type Using Machine Learning
-
+* pybaseball 2021 `statcast`
 
 ## 11-Unsupervised Machine Learning
-* 
+* CSV 2021 Fantasy Pros Rankings
