@@ -3,7 +3,7 @@ This section uses [pybaseball](https://github.com/jldbc/pybaseball#readme)
 To use pybaseball first install and import it.
 
 ```python
-%pip install pybaseball
+pip install pybaseball
 import pybaseball as pyb
 ```
 In this section we use 2021 `batting_stats`, which is full year batting stats for qualifying players.
