@@ -10,11 +10,11 @@ In this section we use 2021 `batting_stats`, which is full year batting stats fo
 ```python
 pyb.batting_stats(2021, qual = 0)
 ```
-- year: first argument is the year as an int
-- qual: second argument is minimum number of at bats for a player to qualify
+- year: first argument is the year (int)
+- qual: second argument is minimum number of at bats for a player to qualify (int)
 
 We also use `standings` data.
 ```python
 pyb.standings(2021)
 ```
-- year: first argument is the year as an int
+- year: first argument is the year (int)
