@@ -2,7 +2,7 @@ This section uses [pybaseball](https://github.com/jldbc/pybaseball#readme)
 
 To use pybaseball first install and import it.
 
-```ruby
+```
 %pip install pybaseball
 import pybaseball as pyb
 ```
