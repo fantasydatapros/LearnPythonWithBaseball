@@ -6,7 +6,7 @@ Folders are organized by year and then section. All data is provided in CSV form
 
 By year:
 
-# 2022 Season (Summer 2022 - Summer 2023)
+# 2021 Season
 
 This course relies on the pybaseball package which you can find here: https://github.com/jldbc/pybaseball
 
